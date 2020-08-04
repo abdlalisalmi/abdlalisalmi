@@ -1,7 +1,7 @@
-### Hello, I'm Abdelaali 👋<hr>
+## Hello, I'm Abdelaali 👋<hr>
 I always felt curious about the field of technology, And I consider that digital transforming will be the key to face many future challenges
 
-### Computer Science Student :mortar_board:<hr>
+## Computer Science Student :mortar_board:<hr>
 currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems. I consider that digital transforming will be the key to face many future challenges
 
 ![image](https://i.imgur.com/hbwJzEA.png)
