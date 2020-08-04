@@ -1,6 +1,5 @@
 ### Hello, I'm Abdelaali 👋
-I always felt curious about the field of technology. This curiosity started when I was sitting with my big brother and watching him do things that I thought were a kind of magic on his computer.
-At first, I was not allowed to touch his computer (Because he was afraid I would break him), and this increased my desire to get acquainted with this field, and since then I got on the learning train.
+I always felt curious about the field of technology, And I consider that digital transforming will be the key to face many future challenges
 
 ### Computer Science Student :mortar_board:
 currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems. I consider that digital transforming will be the key to face many future challenges
