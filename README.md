@@ -5,7 +5,7 @@ At first, I was not allowed to touch his computer (Because he was afraid I would
 ### Computer Science Student :mortar_board:
 currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems. I consider that digital transforming will be the key to face many future challenges
 
-![image](https://i.imgur.com/gavxqOX.png)
+![image](https://i.imgur.com/hbwJzEA.png)
 <!--
 **abdlalisalmi/abdlalisalmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
