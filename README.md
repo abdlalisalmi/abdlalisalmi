@@ -32,6 +32,9 @@ currently, I'm studying programming and computer science and learning some tools
 <img align="left" alt="PhotoShop" width="26px" src="https://image.flaticon.com/icons/svg/888/888872.svg" />
 <br />
 
+<img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true" />
+
+
 [facebook]: https://www.facebook.com/abdlali.sa
 [twitter]: https://twitter.com/abdlalisalmi
 [linkedin]: https://www.linkedin.com/in/abdlalisalmi/
