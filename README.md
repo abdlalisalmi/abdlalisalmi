@@ -14,7 +14,6 @@ currently, I'm studying programming and computer science and learning some tools
 [<img align="left" alt="abdlalisalmi | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="abdlalisalmi | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />][linkedin]
 [<img align="left" alt="abdlali_salmi | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -31,9 +30,7 @@ currently, I'm studying programming and computer science and learning some tools
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PhotoShop" width="26px" src="https://image.flaticon.com/icons/svg/888/888872.svg" />
-
 <br />
-![image](https://i.imgur.com/hbwJzEA.png)
 
 [facebook]: https://www.facebook.com/abdlali.sa
 [twitter]: https://twitter.com/abdlalisalmi
