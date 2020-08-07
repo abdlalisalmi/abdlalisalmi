@@ -31,6 +31,7 @@ currently, I'm studying programming and computer science and learning some tools
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PhotoShop" width="26px" src="https://image.flaticon.com/icons/svg/888/888872.svg" />
 <br />
+<br />
 
 <img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true" />
 
