@@ -35,8 +35,7 @@ currently, I'm studying programming and computer science and learning some tools
 
 <img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true" />
 <br />
-### Github Top Languages
-<img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true" />
+<img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&layout=compact" />
 
 [facebook]: https://www.facebook.com/abdlali.sa
 [twitter]: https://twitter.com/abdlalisalmi
