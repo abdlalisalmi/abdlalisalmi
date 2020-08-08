@@ -7,6 +7,8 @@ I always felt curious about the field of technology, And I consider that digital
 #### 1337 School:
 
 currently, I'm studying programming and computer science and learning some tools that allow me to analyze complex systems.
+#### Networking:
+I have a diploma in techniques of information network, administration of systems and network
 
 ### Connect with me:
 
