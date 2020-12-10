@@ -35,9 +35,11 @@ I have a diploma in techniques of information network, administration of systems
 <br />
 <br />
 
-<img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true" />
-<br />
+### My GitHub Stats:
+<img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true" />
+
 <img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&layout=compact" />
+
 
 [facebook]: https://www.facebook.com/abdlali.sa
 [twitter]: https://twitter.com/abdlalisalmi
