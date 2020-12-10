@@ -35,13 +35,14 @@ I have a diploma in techniques of information network, administration of systems
 <br />
 <br />
 
-### Most Languages Used:
-<img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
-
-<br />
-
 ### My GitHub Stats:
 <img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
+
+### Most Languages Used:
+<img align="left" alt="abdlalisalmi Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdlalisalmi&show_icons=true&hide_border=true&hide_title=true&layout=compact&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
+
+
+
 
 
 [facebook]: https://www.facebook.com/abdlali.sa
