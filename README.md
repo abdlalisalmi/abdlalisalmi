@@ -2,6 +2,10 @@
 
 I always felt curious about the field of technology, And I consider that digital transforming will be the key to face many future challenges
 
+[![Twitter: abdlalisalmi](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/abdlalisalmi)
+[![Linkedin: abdlalisalmi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdlalisalmi/)](https://www.linkedin.com/in/abdlalisalmi/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/abdlalisalmi?label=follow&style=social)](https://github.com/abdlalisalmi)
+
 ## Computer Science Student :mortar_board:
 
 #### 1337 School:
