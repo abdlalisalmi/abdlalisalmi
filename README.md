@@ -4,7 +4,7 @@ Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught 
 
 ## Computer Science Student :mortar_board:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/octocat2.png?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" width="250" src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/octocat2.png" />
 
 #### 1337 School:
 
