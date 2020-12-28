@@ -1,6 +1,6 @@
 ## Hello, I'm Abdelaali 👋
 
-Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught Full Stack Web Developer 🚀 from India.
+Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught Full Stack Web Developer 🚀 from Morocco.
 
 ## Computer Science Student :mortar_board:
 
