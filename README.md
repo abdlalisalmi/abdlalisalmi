@@ -1,10 +1,6 @@
 ## Hello, I'm Abdelaali 👋
 
-Hi, I'm <a hhref="https://abdelaali.tech">Abdelaali ES SALMI!</a>, a passionate self-taught Full Stack Web Developer 🚀 from India.
-
-[![Twitter: abdlalisalmi](https://img.shields.io/twitter/follow/abdlalisalmi?style=social)](https://twitter.com/abdlalisalmi)
-[![Linkedin: abdlalisalmi](https://img.shields.io/badge/-abdlalisalmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdlalisalmi/)](https://www.linkedin.com/in/abdlalisalmi/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/abdlalisalmi?label=follow&style=social)](https://github.com/abdlalisalmi)
+Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught Full Stack Web Developer 🚀 from India.
 
 ## Computer Science Student :mortar_board:
 
