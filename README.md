@@ -2,6 +2,8 @@
 
 Hi, I'm [Abdelaali ES SALMI!](https://abdelaali.tech), a passionate self-taught Full Stack Web Developer 🚀 from Morocco.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/octocat2.png?raw=true" width="500" height="320" />
+
 ## Computer Science Student :mortar_board:
 
 #### 1337 School:
