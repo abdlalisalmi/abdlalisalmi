@@ -1,8 +1,8 @@
-## Hello, I'm Abdelaali  ES SALMI 👋
+## Hi there 👋
 
-I'm a passionate self-taught Full Stack Web Developer 🚀 from Morocco.
+<!-- I'm a passionate self-taught Full Stack Web Developer 🚀 from Morocco. -->
 
-## Computer Science Student :mortar_board:
+<!-- ## Computer Science Student :mortar_board:
 
 <img align="right" alt="GIF" width="500" src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg" />
 
@@ -12,12 +12,12 @@ currently, I'm studying programming and computer science and learning some tools
 #### Networking:
 I have a diploma in techniques of information network, administration of systems and network
 
-#### Connect with me:
+#### Connect with me: -->
 
-[<img align="left" alt="abdlalisalmi | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1636643469~hmac=24a6c4b613d8b6d5bdd805957a78d414" />][linkedin]
-<br />
+<!-- [<img align="left" alt="abdlalisalmi | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1636643469~hmac=24a6c4b613d8b6d5bdd805957a78d414" />][linkedin]
+<br /> -->
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="Django" width="56px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
@@ -44,4 +44,4 @@ I have a diploma in techniques of information network, administration of systems
 [facebook]: https://www.facebook.com/abdlali.sa
 [twitter]: https://twitter.com/abdlalisalmi
 [linkedin]: https://www.linkedin.com/in/abdlalisalmi/
-[instagram]: https://www.instagram.com/abdlali_salmi/
+[instagram]: https://www.instagram.com/abdlali_salmi/ -->
