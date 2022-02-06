@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class FullStackDeveloper:
+
+    def __init__(self):
+        self.first_name = "Abdelaali"
+        self.last_name = "ES SALMI"
+        self.role = "FullStack Developer"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = FullStackDeveloper()
+me.say_hi()
+```
 
 <!-- I'm a passionate self-taught Full Stack Web Developer 🚀 from Morocco. -->
 
