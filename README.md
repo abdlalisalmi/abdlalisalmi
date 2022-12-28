@@ -10,7 +10,8 @@ class FullStackDeveloper:
     def __init__(self):
         self.first_name = "Abdelaali"
         self.last_name = "ES SALMI"
-        self.role = "FullStack Developer"
+        self.role = "Technical and Pedagogical Staff at 1337"
+        self.love = "Python and ******"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
