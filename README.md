@@ -11,7 +11,7 @@ class FullStackDeveloper:
         self.first_name = "Abdelaali"
         self.last_name = "ES SALMI"
         self.role = "Technical and Pedagogical Staff at 1337"
-        self.love = "Python and ******"
+        self.interest = "Python and something else ❤️"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
