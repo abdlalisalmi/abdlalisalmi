@@ -1,7 +1,7 @@
 ## Hi there<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%"> 
 
 ```python
-#!/usr/bin/python3
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
@@ -11,6 +11,10 @@ class FullStackDeveloper:
         self.first_name = "Abdelaali"
         self.last_name = "ES SALMI"
         self.role = "Technical and Pedagogical Staff at 1337"
+        
+        # Social Media
+        self.linkedin = "https://www.linkedin.com/in/abdlalisalmi/"
+        self.twitter = "https://twitter.com/abdlalisalmi"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
