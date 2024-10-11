@@ -10,7 +10,7 @@ class FullStackDeveloper:
     def __init__(self):
         self.first_name = "Abdelaali"
         self.last_name = "ES SALMI"
-        self.role = "Technical and Pedagogical Staff at 1337"
+        self.role = "Technical Manager at 1337"
         
         # Social Media
         self.linkedin = "https://www.linkedin.com/in/abdlalisalmi/"
